@@ -1,8 +1,24 @@
-# React + Vite
+# Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Introduction-
+Create a web application for tracking expenses, allowing users to add, edit, and delete expenses based on category and date, as well as view a summary of their expenses.
 
-Currently, two official plugins are available:
+Features-
+- We can view a summary of total expenses, categorized by date or type.
+- Users can add, edit and delete expenses. (CRUD operations)
+- localStorage is leveraged to persist user data.
+- Responsive design for various screen sizes.
+- Third party libraries like notistack is used to show appropriate alert/error messages i.e, data validation is also done.
+- Graphs,charts and modals are used to provide better UX.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies-
+- React.JS
+- HTML + CSS + JavaScript
+Third party libraries -
+- recharts
+- react-modal
+- notistack
+- react-icons
+
+Deployed on Vercel-
+`Vercel Link`
