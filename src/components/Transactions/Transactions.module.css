@@ -1,0 +1,12 @@
+.Transactions{
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+
+/* @media screen and (min-width: 780px) {
+    .Transactions{
+    }
+} */

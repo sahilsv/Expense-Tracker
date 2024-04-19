@@ -1,0 +1,25 @@
+.pieChart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-right: 40px;
+}
+
+.pie{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.labelDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 420px) {
+    .pieChart {
+        margin: 15px 0px ;
+    }
+}
